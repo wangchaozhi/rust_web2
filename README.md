@@ -4,6 +4,10 @@
 
 > 💡 **新手？** 查看 [快速开始指南](QUICKSTART.md) 在 5 分钟内启动项目！
 
+[![Rust](https://img.shields.io/badge/Rust-1.70+-orange.svg)](https://www.rust-lang.org/)
+[![Vue](https://img.shields.io/badge/Vue-3.4+-brightgreen.svg)](https://vuejs.org/)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
 ## 📋 技术栈
 
 ### 后端
